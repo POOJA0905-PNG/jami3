@@ -4,7 +4,7 @@ import Dashboard from './components/Dashboard';
 import { Mail, Settings, ShieldCheck, MailWarning, Compass, Database, Key, Play } from 'lucide-react';
 
 const DEFAULT_SETTINGS: AppSettings = {
-  clientId: '685438162204-km25d85rnu1lt7pg4bdf49mfk0ijq472.apps.googleusercontent.com', // Custom Google OAuth Client ID
+  clientId: '685438162204-rgjcrprungd8qbbvup8jbivngglu04dr.apps.googleusercontent.com', // Custom Google OAuth Client ID
   spreadsheetId: '1fTIAB5HkqWy9XS6cfgASXimpjgETw0QVs4H5b4egCSk', // Provided by user
   inboxRange: 'Inbox!A1:M1000', // Pre-guessed tab
 };
